@@ -1,0 +1,13 @@
+.buttonBox {
+  background-color: #2196f3;
+
+  border-radius: 5px;
+  font-size: 18px;
+  color: white;
+  transition: all 1s;
+  opacity: 1;
+  cursor: pointer;
+}
+.buttonBox:hover {
+  opacity: 0.8;
+}

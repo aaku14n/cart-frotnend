@@ -1,0 +1,11 @@
+.base {
+  background: aquamarine;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  background-color: #262626;
+}
+.headerTitle {
+  font-size: 20px;
+  color: #6fa0a0;
+}

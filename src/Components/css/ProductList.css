@@ -1,0 +1,5 @@
+.productListBase {
+  height: 80vh;
+  overflow: scroll;
+  padding: 10px;
+}
